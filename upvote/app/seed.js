@@ -39,5 +39,5 @@ window.Seed = (function() {
         },
     ];
 
-    return { submissions: submissions };
+    return { submissions };
 })();
